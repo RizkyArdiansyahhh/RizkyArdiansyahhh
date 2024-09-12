@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rizky Ardiansyah</h1>
-<h3 align="left">Born in Bengkalis Regency on June 6, 2004, I am an active 4th-semester student majoring in Computer Science, pursuing a bachelor's degree in Information Systems at Universitas Riau. I have a keen interest in building a career in Information Technology. I actively participate in various activities, both on and off campus, that align with my interests, such as joining organizations and associations. I am open to any opportunities that can provide experience and help me improve my skills in the field of technology.</h3>
+<h3 align="left">Born in Bengkalis Regency on June 6, 2004, I am an active 5th-semester student majoring in Computer Science, pursuing a bachelor's degree in Information Systems at Universitas Riau. I have a keen interest in building a career in Information Technology. I actively participate in various activities, both on and off campus, that align with my interests, such as joining organizations and associations. I am open to any opportunities that can provide experience and help me improve my skills in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyardiansyahhh&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyardiansyahhh" /> </p>
 
