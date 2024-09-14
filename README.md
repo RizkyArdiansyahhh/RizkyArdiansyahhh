@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **js, php, java**
+- 💬 Ask me about **javascript, php, java, database**
 
 - 📫 How to reach me **rizky.ardiansyahhhh11@gmail.com**
 
