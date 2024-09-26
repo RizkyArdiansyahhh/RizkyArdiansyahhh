@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **javascript, php, java, database, design**
+- 💬 Ask me about **javascript, php, java, database, figma**
 
 - 📫 How to reach me **rizky.ardiansyahhhh11@gmail.com**
 
